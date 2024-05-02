@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\bin\Debug\net8.0-windows\Degiskenler_int.exe
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\bin\Debug\net8.0-windows\Degiskenler_int.deps.json
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\bin\Debug\net8.0-windows\Degiskenler_int.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\bin\Debug\net8.0-windows\Degiskenler_int.dll
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\bin\Debug\net8.0-windows\Degiskenler_int.pdb
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\obj\Debug\net8.0-windows\Degiskenler_int.Form1.resources
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\obj\Debug\net8.0-windows\Degiskenler_int.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\obj\Debug\net8.0-windows\Degiskenler_int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\obj\Debug\net8.0-windows\Degiskenler_int.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\obj\Debug\net8.0-windows\Degiskenler_int.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\obj\Debug\net8.0-windows\Degiskenler_int.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\obj\Debug\net8.0-windows\Degiskenler_int.dll
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\obj\Debug\net8.0-windows\refint\Degiskenler_int.dll
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\obj\Debug\net8.0-windows\Degiskenler_int.pdb
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\obj\Debug\net8.0-windows\Degiskenler_int.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Degiskenler_int\Degiskenler_int\obj\Debug\net8.0-windows\ref\Degiskenler_int.dll
