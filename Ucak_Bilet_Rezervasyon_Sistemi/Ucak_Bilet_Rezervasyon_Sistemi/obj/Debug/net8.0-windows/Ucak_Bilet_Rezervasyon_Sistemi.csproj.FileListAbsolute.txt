@@ -1,0 +1,17 @@
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\bin\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.exe
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\bin\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.deps.json
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\bin\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\bin\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.dll
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\bin\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.pdb
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.Form1.resources
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.dll
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\net8.0-windows\refint\Ucak_Bilet_Rezervasyon_Sistemi.dll
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.pdb
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\net8.0-windows\ref\Ucak_Bilet_Rezervasyon_Sistemi.dll
+C:\Users\Taha\Desktop\C#\Ucak_Bilet_Rezervasyon_Sistemi\Ucak_Bilet_Rezervasyon_Sistemi\obj\Debug\net8.0-windows\Ucak_Bilet_Rezervasyon_Sistemi.Properties.Resources.resources

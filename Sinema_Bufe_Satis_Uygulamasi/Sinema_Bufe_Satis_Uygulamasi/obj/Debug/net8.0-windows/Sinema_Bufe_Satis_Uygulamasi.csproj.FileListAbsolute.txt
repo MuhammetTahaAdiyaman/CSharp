@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.exe
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.deps.json
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.dll
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.pdb
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.Form1.resources
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.dll
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\net8.0-windows\refint\Sinema_Bufe_Satis_Uygulamasi.dll
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.pdb
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\net8.0-windows\Sinema_Bufe_Satis_Uygulamasi.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\net8.0-windows\ref\Sinema_Bufe_Satis_Uygulamasi.dll
