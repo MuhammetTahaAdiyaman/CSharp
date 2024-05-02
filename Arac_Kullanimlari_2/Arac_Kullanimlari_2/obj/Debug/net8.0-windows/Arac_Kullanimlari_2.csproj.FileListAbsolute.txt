@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\bin\Debug\net8.0-windows\Arac_Kullanimlari_2.exe
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\bin\Debug\net8.0-windows\Arac_Kullanimlari_2.deps.json
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\bin\Debug\net8.0-windows\Arac_Kullanimlari_2.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\bin\Debug\net8.0-windows\Arac_Kullanimlari_2.dll
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\bin\Debug\net8.0-windows\Arac_Kullanimlari_2.pdb
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\obj\Debug\net8.0-windows\Arac_Kullanimlari_2.Form1.resources
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\obj\Debug\net8.0-windows\Arac_Kullanimlari_2.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\obj\Debug\net8.0-windows\Arac_Kullanimlari_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\obj\Debug\net8.0-windows\Arac_Kullanimlari_2.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\obj\Debug\net8.0-windows\Arac_Kullanimlari_2.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\obj\Debug\net8.0-windows\Arac_Kullanimlari_2.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\obj\Debug\net8.0-windows\Arac_Kullanimlari_2.dll
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\obj\Debug\net8.0-windows\refint\Arac_Kullanimlari_2.dll
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\obj\Debug\net8.0-windows\Arac_Kullanimlari_2.pdb
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\obj\Debug\net8.0-windows\Arac_Kullanimlari_2.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_2\Arac_Kullanimlari_2\obj\Debug\net8.0-windows\ref\Arac_Kullanimlari_2.dll
