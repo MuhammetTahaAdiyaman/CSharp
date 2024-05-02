@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\bin\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.exe
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\bin\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.deps.json
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\bin\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\bin\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.dll
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\bin\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.pdb
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\obj\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.Form1.resources
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\obj\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\obj\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\obj\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\obj\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\obj\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\obj\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.dll
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\obj\Debug\net8.0-windows\refint\Ogrenci_Sinav_Notlari_Hesaplama_Basic.dll
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\obj\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.pdb
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\obj\Debug\net8.0-windows\Ogrenci_Sinav_Notlari_Hesaplama_Basic.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Notlari_Hesaplama_Basic\Ogrenci_Sinav_Notlari_Hesaplama_Basic\obj\Debug\net8.0-windows\ref\Ogrenci_Sinav_Notlari_Hesaplama_Basic.dll
