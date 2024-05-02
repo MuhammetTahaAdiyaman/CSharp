@@ -1,0 +1,17 @@
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\bin\Debug\net8.0-windows\Arac_Kullanimlari_3.exe
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\bin\Debug\net8.0-windows\Arac_Kullanimlari_3.deps.json
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\bin\Debug\net8.0-windows\Arac_Kullanimlari_3.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\bin\Debug\net8.0-windows\Arac_Kullanimlari_3.dll
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\bin\Debug\net8.0-windows\Arac_Kullanimlari_3.pdb
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\obj\Debug\net8.0-windows\Arac_Kullanimlari_3.Form1.resources
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\obj\Debug\net8.0-windows\Arac_Kullanimlari_3.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\obj\Debug\net8.0-windows\Arac_Kullanimlari_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\obj\Debug\net8.0-windows\Arac_Kullanimlari_3.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\obj\Debug\net8.0-windows\Arac_Kullanimlari_3.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\obj\Debug\net8.0-windows\Arac_Kullanimlari_3.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\obj\Debug\net8.0-windows\Arac_Kullanimlari_3.dll
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\obj\Debug\net8.0-windows\refint\Arac_Kullanimlari_3.dll
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\obj\Debug\net8.0-windows\Arac_Kullanimlari_3.pdb
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\obj\Debug\net8.0-windows\Arac_Kullanimlari_3.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\obj\Debug\net8.0-windows\ref\Arac_Kullanimlari_3.dll
+C:\Users\Taha\Desktop\C#\Arac_Kullanimlari_3\Arac_Kullanimlari_3\obj\Debug\net8.0-windows\Arac_Kullanimlari_3.Properties.Resources.resources
