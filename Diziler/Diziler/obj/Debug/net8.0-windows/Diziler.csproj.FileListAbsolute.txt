@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\bin\Debug\net8.0-windows\Diziler.exe
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\bin\Debug\net8.0-windows\Diziler.deps.json
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\bin\Debug\net8.0-windows\Diziler.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\bin\Debug\net8.0-windows\Diziler.dll
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\bin\Debug\net8.0-windows\Diziler.pdb
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\obj\Debug\net8.0-windows\Diziler.Form1.resources
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\obj\Debug\net8.0-windows\Diziler.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\obj\Debug\net8.0-windows\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\obj\Debug\net8.0-windows\Diziler.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\obj\Debug\net8.0-windows\Diziler.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\obj\Debug\net8.0-windows\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\obj\Debug\net8.0-windows\Diziler.dll
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\obj\Debug\net8.0-windows\refint\Diziler.dll
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\obj\Debug\net8.0-windows\Diziler.pdb
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\obj\Debug\net8.0-windows\Diziler.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Diziler\Diziler\obj\Debug\net8.0-windows\ref\Diziler.dll

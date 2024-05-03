@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\bin\Debug\net8.0-windows\Dizi_Odev.exe
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\bin\Debug\net8.0-windows\Dizi_Odev.deps.json
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\bin\Debug\net8.0-windows\Dizi_Odev.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\bin\Debug\net8.0-windows\Dizi_Odev.dll
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\bin\Debug\net8.0-windows\Dizi_Odev.pdb
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\obj\Debug\net8.0-windows\Dizi_Odev.Form1.resources
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\obj\Debug\net8.0-windows\Dizi_Odev.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\obj\Debug\net8.0-windows\Dizi_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\obj\Debug\net8.0-windows\Dizi_Odev.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\obj\Debug\net8.0-windows\Dizi_Odev.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\obj\Debug\net8.0-windows\Dizi_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\obj\Debug\net8.0-windows\Dizi_Odev.dll
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\obj\Debug\net8.0-windows\refint\Dizi_Odev.dll
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\obj\Debug\net8.0-windows\Dizi_Odev.pdb
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\obj\Debug\net8.0-windows\Dizi_Odev.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Dizi_Odev\Dizi_Odev\obj\Debug\net8.0-windows\ref\Dizi_Odev.dll
