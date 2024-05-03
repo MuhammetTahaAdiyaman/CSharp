@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Timer_Ornek/1.0.0": {
+        "runtime": {
+          "Timer_Ornek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Timer_Ornek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
