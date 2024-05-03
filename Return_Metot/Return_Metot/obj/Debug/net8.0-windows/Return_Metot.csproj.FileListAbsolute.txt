@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\bin\Debug\net8.0-windows\Return_Metot.exe
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\bin\Debug\net8.0-windows\Return_Metot.deps.json
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\bin\Debug\net8.0-windows\Return_Metot.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\bin\Debug\net8.0-windows\Return_Metot.dll
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\bin\Debug\net8.0-windows\Return_Metot.pdb
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\obj\Debug\net8.0-windows\Return_Metot.Form1.resources
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\obj\Debug\net8.0-windows\Return_Metot.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\obj\Debug\net8.0-windows\Return_Metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\obj\Debug\net8.0-windows\Return_Metot.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\obj\Debug\net8.0-windows\Return_Metot.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\obj\Debug\net8.0-windows\Return_Metot.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\obj\Debug\net8.0-windows\Return_Metot.dll
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\obj\Debug\net8.0-windows\refint\Return_Metot.dll
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\obj\Debug\net8.0-windows\Return_Metot.pdb
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\obj\Debug\net8.0-windows\Return_Metot.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Return_Metot\Return_Metot\obj\Debug\net8.0-windows\ref\Return_Metot.dll
