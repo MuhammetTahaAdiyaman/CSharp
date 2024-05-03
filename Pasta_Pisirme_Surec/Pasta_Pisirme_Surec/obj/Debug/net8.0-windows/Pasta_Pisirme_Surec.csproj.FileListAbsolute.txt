@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\bin\Debug\net8.0-windows\Pasta_Pisirme_Surec.exe
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\bin\Debug\net8.0-windows\Pasta_Pisirme_Surec.deps.json
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\bin\Debug\net8.0-windows\Pasta_Pisirme_Surec.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\bin\Debug\net8.0-windows\Pasta_Pisirme_Surec.dll
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\bin\Debug\net8.0-windows\Pasta_Pisirme_Surec.pdb
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\obj\Debug\net8.0-windows\Pasta_Pisirme_Surec.Form1.resources
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\obj\Debug\net8.0-windows\Pasta_Pisirme_Surec.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\obj\Debug\net8.0-windows\Pasta_Pisirme_Surec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\obj\Debug\net8.0-windows\Pasta_Pisirme_Surec.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\obj\Debug\net8.0-windows\Pasta_Pisirme_Surec.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\obj\Debug\net8.0-windows\Pasta_Pisirme_Surec.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\obj\Debug\net8.0-windows\Pasta_Pisirme_Surec.dll
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\obj\Debug\net8.0-windows\refint\Pasta_Pisirme_Surec.dll
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\obj\Debug\net8.0-windows\Pasta_Pisirme_Surec.pdb
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\obj\Debug\net8.0-windows\Pasta_Pisirme_Surec.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Pasta_Pisirme_Surec\Pasta_Pisirme_Surec\obj\Debug\net8.0-windows\ref\Pasta_Pisirme_Surec.dll
