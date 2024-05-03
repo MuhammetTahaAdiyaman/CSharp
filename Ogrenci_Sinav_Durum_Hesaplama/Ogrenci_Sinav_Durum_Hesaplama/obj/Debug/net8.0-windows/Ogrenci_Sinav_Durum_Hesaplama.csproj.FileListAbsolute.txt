@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\obj\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.Form1.resources
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\obj\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\obj\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\obj\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\obj\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\obj\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\bin\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.exe
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\bin\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.deps.json
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\bin\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\bin\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.dll
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\bin\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.pdb
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\obj\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.dll
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\obj\Debug\net8.0-windows\refint\Ogrenci_Sinav_Durum_Hesaplama.dll
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\obj\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.pdb
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\obj\Debug\net8.0-windows\Ogrenci_Sinav_Durum_Hesaplama.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Ogrenci_Sinav_Durum_Hesaplama\Ogrenci_Sinav_Durum_Hesaplama\obj\Debug\net8.0-windows\ref\Ogrenci_Sinav_Durum_Hesaplama.dll

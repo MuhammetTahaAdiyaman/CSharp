@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ogrenci_Sinav_Durum_Hesaplama/1.0.0": {
+        "runtime": {
+          "Ogrenci_Sinav_Durum_Hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ogrenci_Sinav_Durum_Hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
