@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\bin\Debug\net8.0-windows\Random_Class.exe
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\bin\Debug\net8.0-windows\Random_Class.deps.json
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\bin\Debug\net8.0-windows\Random_Class.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\bin\Debug\net8.0-windows\Random_Class.dll
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\bin\Debug\net8.0-windows\Random_Class.pdb
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\obj\Debug\net8.0-windows\Random_Class.Form1.resources
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\obj\Debug\net8.0-windows\Random_Class.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\obj\Debug\net8.0-windows\Random_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\obj\Debug\net8.0-windows\Random_Class.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\obj\Debug\net8.0-windows\Random_Class.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\obj\Debug\net8.0-windows\Random_Class.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\obj\Debug\net8.0-windows\Random_Class.dll
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\obj\Debug\net8.0-windows\refint\Random_Class.dll
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\obj\Debug\net8.0-windows\Random_Class.pdb
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\obj\Debug\net8.0-windows\Random_Class.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Random_Class\Random_Class\obj\Debug\net8.0-windows\ref\Random_Class.dll
