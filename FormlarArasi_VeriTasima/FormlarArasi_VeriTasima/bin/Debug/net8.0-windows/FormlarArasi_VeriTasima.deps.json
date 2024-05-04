@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FormlarArasi_VeriTasima/1.0.0": {
+        "runtime": {
+          "FormlarArasi_VeriTasima.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormlarArasi_VeriTasima/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
