@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formlar_Arasi_Gecis", "Formlar_Arasi_Gecis\Formlar_Arasi_Gecis.csproj", "{C94CCCBF-8C77-4C7F-9308-2DB52940786F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94CCCBF-8C77-4C7F-9308-2DB52940786F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94CCCBF-8C77-4C7F-9308-2DB52940786F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94CCCBF-8C77-4C7F-9308-2DB52940786F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94CCCBF-8C77-4C7F-9308-2DB52940786F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {461A81B0-3CD2-467B-8610-E39BA3A4CC0F}
+	EndGlobalSection
+EndGlobal

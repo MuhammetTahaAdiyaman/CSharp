@@ -1,0 +1,17 @@
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\bin\Debug\net8.0-windows\Formlar_Arasi_Gecis.exe
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\bin\Debug\net8.0-windows\Formlar_Arasi_Gecis.deps.json
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\bin\Debug\net8.0-windows\Formlar_Arasi_Gecis.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\bin\Debug\net8.0-windows\Formlar_Arasi_Gecis.dll
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\bin\Debug\net8.0-windows\Formlar_Arasi_Gecis.pdb
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\net8.0-windows\Formlar_Arasi_Gecis.Form1.resources
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\net8.0-windows\Formlar_Arasi_Gecis.Form2.resources
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\net8.0-windows\Formlar_Arasi_Gecis.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\net8.0-windows\Formlar_Arasi_Gecis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\net8.0-windows\Formlar_Arasi_Gecis.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\net8.0-windows\Formlar_Arasi_Gecis.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\net8.0-windows\Formlar_Arasi_Gecis.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\net8.0-windows\Formlar_Arasi_Gecis.dll
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\net8.0-windows\refint\Formlar_Arasi_Gecis.dll
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\net8.0-windows\Formlar_Arasi_Gecis.pdb
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\net8.0-windows\Formlar_Arasi_Gecis.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Formlar_Arasi_Gecis\Formlar_Arasi_Gecis\obj\Debug\net8.0-windows\ref\Formlar_Arasi_Gecis.dll
