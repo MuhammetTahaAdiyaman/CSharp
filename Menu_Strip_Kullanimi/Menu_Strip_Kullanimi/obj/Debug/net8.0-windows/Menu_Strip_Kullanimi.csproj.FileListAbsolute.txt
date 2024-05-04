@@ -1,0 +1,16 @@
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\bin\Debug\net8.0-windows\Menu_Strip_Kullanimi.exe
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\bin\Debug\net8.0-windows\Menu_Strip_Kullanimi.deps.json
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\bin\Debug\net8.0-windows\Menu_Strip_Kullanimi.runtimeconfig.json
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\bin\Debug\net8.0-windows\Menu_Strip_Kullanimi.dll
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\bin\Debug\net8.0-windows\Menu_Strip_Kullanimi.pdb
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\obj\Debug\net8.0-windows\Menu_Strip_Kullanimi.Form1.resources
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\obj\Debug\net8.0-windows\Menu_Strip_Kullanimi.csproj.GenerateResource.cache
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\obj\Debug\net8.0-windows\Menu_Strip_Kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\obj\Debug\net8.0-windows\Menu_Strip_Kullanimi.AssemblyInfoInputs.cache
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\obj\Debug\net8.0-windows\Menu_Strip_Kullanimi.AssemblyInfo.cs
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\obj\Debug\net8.0-windows\Menu_Strip_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\obj\Debug\net8.0-windows\Menu_Strip_Kullanimi.dll
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\obj\Debug\net8.0-windows\refint\Menu_Strip_Kullanimi.dll
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\obj\Debug\net8.0-windows\Menu_Strip_Kullanimi.pdb
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\obj\Debug\net8.0-windows\Menu_Strip_Kullanimi.genruntimeconfig.cache
+C:\Users\Taha\Desktop\C#\Menu_Strip_Kullanimi\Menu_Strip_Kullanimi\obj\Debug\net8.0-windows\ref\Menu_Strip_Kullanimi.dll

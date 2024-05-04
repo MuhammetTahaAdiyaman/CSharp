@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chart_Kullanimi/1.0.0": {
+        "runtime": {
+          "Chart_Kullanimi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chart_Kullanimi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
