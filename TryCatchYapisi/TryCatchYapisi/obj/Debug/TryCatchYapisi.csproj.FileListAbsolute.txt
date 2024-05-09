@@ -1,0 +1,10 @@
+C:\Users\muham\OneDrive\masaüstü\CSharp\TryCatchYapisi\TryCatchYapisi\bin\Debug\TryCatchYapisi.exe.config
+C:\Users\muham\OneDrive\masaüstü\CSharp\TryCatchYapisi\TryCatchYapisi\bin\Debug\TryCatchYapisi.exe
+C:\Users\muham\OneDrive\masaüstü\CSharp\TryCatchYapisi\TryCatchYapisi\bin\Debug\TryCatchYapisi.pdb
+C:\Users\muham\OneDrive\masaüstü\CSharp\TryCatchYapisi\TryCatchYapisi\obj\Debug\TryCatchYapisi.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\masaüstü\CSharp\TryCatchYapisi\TryCatchYapisi\obj\Debug\TryCatchYapisi.Form1.resources
+C:\Users\muham\OneDrive\masaüstü\CSharp\TryCatchYapisi\TryCatchYapisi\obj\Debug\TryCatchYapisi.Properties.Resources.resources
+C:\Users\muham\OneDrive\masaüstü\CSharp\TryCatchYapisi\TryCatchYapisi\obj\Debug\TryCatchYapisi.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\masaüstü\CSharp\TryCatchYapisi\TryCatchYapisi\obj\Debug\TryCatchYapisi.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\masaüstü\CSharp\TryCatchYapisi\TryCatchYapisi\obj\Debug\TryCatchYapisi.exe
+C:\Users\muham\OneDrive\masaüstü\CSharp\TryCatchYapisi\TryCatchYapisi\obj\Debug\TryCatchYapisi.pdb
